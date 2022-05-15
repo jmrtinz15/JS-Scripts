@@ -1,2 +1,2 @@
 # JS-Scripts
-Leetcode challenge solutions. 
+Slowly going through leetcode challenges in javascript. Completing them using javascript within Visual Studio Code. 
