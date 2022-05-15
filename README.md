@@ -1,2 +1,2 @@
 # JS-Scripts
-Basic Javascript Scripts
+Leetcode challenge solutions. 
